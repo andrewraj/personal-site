@@ -45,13 +45,16 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: spotify
-  icon_pack: fab
-  link: https://open.spotify.com/artist/1BpGDbfEt1LRb3gmGdIadN?si=gAGkWjiGSUa4Bvt55-vTPQ
+  link: https://twitter.com/adwraj
 - icon: github
   icon_pack: fab
   link: https://github.com/andrewraj
+- icon: spotify
+  icon_pack: fab
+  link: https://open.spotify.com/artist/1BpGDbfEt1LRb3gmGdIadN?si=gAGkWjiGSUa4Bvt55-vTPQ
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/andrewraj/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
