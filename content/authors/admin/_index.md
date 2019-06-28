@@ -15,7 +15,7 @@ role: Procurement Professional
 # Organizations/Affiliations
 organizations:
 - name: Telekom Malaysia Berhad
-  url: ""
+  url: "https://www.tm.com.my"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My skills include negotiation strategy, IT procurement
@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: Masters of Computer Science
+  - course: Master of Computer Science
     institution: Royal Melbourne Institute of Technology
     year: 2014
-  - course: Bachelors of Information Technology, Software Engineering
+  - course: Bachelors of Information Technology hons (Software Engineering)
     institution: Multimedia University
     year: 2012
 
