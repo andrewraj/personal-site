@@ -46,7 +46,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: fa-spotify
+- icon: spotify
   icon_pack: fab
   link: https://open.spotify.com/artist/1BpGDbfEt1LRb3gmGdIadN?si=gAGkWjiGSUa4Bvt55-vTPQ
 - icon: github
