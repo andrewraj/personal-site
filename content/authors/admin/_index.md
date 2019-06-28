@@ -30,7 +30,7 @@ education:
   - course: Masters of Computer Science
     institution: Royal Melbourne Institute of Technology
     year: 2014
-  - course: Bachelors of Information Technology
+  - course: Bachelors of Information Technology, Software Engineering
     institution: Multimedia University
     year: 2012
 
@@ -46,9 +46,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: f1bc
+  icon_pack: fab
+  link: https://open.spotify.com/artist/1BpGDbfEt1LRb3gmGdIadN?si=gAGkWjiGSUa4Bvt55-vTPQ
 - icon: github
   icon_pack: fab
   link: https://github.com/andrewraj
@@ -68,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Andrew Raj is a procurement executive at Malaysia's No. 1 Telecommunication company Telekom Malaysia Berhad. His area of expertise include procurement planning, consultancy along with commercial and contract negotiations. He also keeps up with the IT industry due to his strong background in the IT arena
