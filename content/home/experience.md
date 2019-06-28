@@ -22,14 +22,17 @@ date_format = "Jan 2006"
   company = "Telekom Malaysia Berhad"
   company_url = "https://www.tm.com.my/"
   location = "Kuala Lumpur, Malaysia"
-  date_start = "2017-01-01"
+  date_start = "2015-05-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Key responsibilities :
 
-  * Analysing
-  * Modelling
-  * Deploying
+  *	Strategize IT procurement activities
+  *	Review/propose alternative IT solutions
+  *	Negotiation with vendors
+  *	Challenge user requirements & proposal
+  *	End to end IT procurement
+  *	Initiate & manage contracts
   """
 
 [[experience]]
@@ -37,8 +40,17 @@ date_format = "Jan 2006"
   company = "Telekom Malaysia Berhad"
   company_url = "https://www.tm.com.my/"
   location = "Kuala Lumpur, Malaysia"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "201-01-01"
+  date_end = "2015-04-30"
+  description = """
+  Key responsibilities:
+
+  *	Preparation of tender documents
+  *	Tender activities (e.g. tender float, briefing, clarification, closing)
+  *	Negotiation with vendors
+  *	Contract owner/creator
+  *	Challenge user requirements & tenderer proposal
+  *	Seek higher management approval 
+  """
 
 +++
