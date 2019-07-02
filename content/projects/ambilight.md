@@ -1,4 +1,4 @@
 ---
 title: Ambilight
-
+tag: "tech"
 ---
