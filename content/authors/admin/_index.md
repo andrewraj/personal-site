@@ -66,8 +66,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-[]
+#user_groups:
+#  - Researchers
+#  - Visitors
 ---
 
 Andrew Raj is a procurement executive at Malaysia's No. 1 Telecommunication company Telekom Malaysia Berhad. His area of expertise include procurement planning, consultancy along with commercial and contract negotiations. He also keeps up with the IT industry due to his strong background in the IT arena
