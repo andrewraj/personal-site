@@ -53,4 +53,41 @@ date_format = "Jan 2006"
   *	Seek higher management approval
   """
 
+  [[experience]]
+    title = "Technical Lead"
+    company = "Kenway Consulting Pty. Ltd"
+    company_url = "http://www.kenway.com.au/"
+    location = "Melbourne, Australia"
+    date_start = "2014-03-01"
+    date_end = "2014-07-30"
+    description = """
+    Transitlane is a mobile application that provides a socially integrated sustainable transport solution. It is developed to deliver a user-friendly system for people to network and create a carpool strategy to decrease the number of cars on our road.
+
+    Key responsibilities:
+
+    *	Android development lead
+    * Overall solution architecture
+    * System design
+    * UI/UX design
+
+    """
+
+    [[experience]]
+      title = "Intern"
+      company = "mCruncher R&D Sdn. Bhd."
+      company_url = "http://www.mcruncher.com/"
+      location = "Cyberjaya, Malaysia"
+      date_start = "2012-03-01"
+      date_end = "2012-06-30"
+      description = """
+      Key responsibilities:
+
+      *	Building a company website
+      * Technical documentation
+      * Website UI/UX design
+      * Building an intranet website to automate internal work flows
+      * Research on business intelligence tools (IBM Cognos)
+
+      """
+
 +++
