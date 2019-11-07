@@ -23,7 +23,7 @@ bio: My skills include negotiation strategy, IT procurement
 interests:
 - Procurement consultancy
 - Cloud computing
--
+- Negotiation
 
 education:
   courses:
