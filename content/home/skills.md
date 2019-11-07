@@ -17,14 +17,8 @@ subtitle = ""
 [[feature]]
   icon = "shopping-cart"
   icon_pack = "fas"
-  name = "Purchasing"
-  description = "90%"
-
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "Digital"
-  description = "100%"  
+  name = "Procurement"
+  description = "80%"
 
 [[feature]]
   icon = "guitar"
@@ -32,4 +26,9 @@ subtitle = ""
   name = "Music"
   description = "10%"
 
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Technology"
+  description = "200%"  
 +++

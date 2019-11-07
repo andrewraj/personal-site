@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Procurement Professional
+role: Procurement Consultant
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: "https://www.accenture.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My skills include negotiation strategy, IT procurement
+bio: My skills include commercial negotiation strategy, contracting, digital procurement
 
 interests:
-- Procurement consultancy
-- Cloud computing
-- Negotiation
+- Digital Procurement
+- Cloud Computing
+- Internet of Things (IoT)
 
 education:
   courses:
@@ -71,4 +71,4 @@ email: ""
 #  - Visitors
 ---
 
-Andrew Raj is a procurement executive at Malaysia's No. 1 Telecommunication company Telekom Malaysia Berhad. His area of expertise include procurement planning, consultancy along with commercial and contract negotiations. He also keeps up with the IT industry due to his strong background in the IT arena
+Andrew Raj is a procurement consultant at Accenture serving clients in various industries including Oil & Gas, Telecommunication. Previously he served in Malaysia's No. 1 Telecommunication company Telekom Malaysia Berhad. His area of expertise include commercial & contract negotiations, procurement planning, consultancy. He also keeps up with the IT industry due to his strong technical background in the IT field.
