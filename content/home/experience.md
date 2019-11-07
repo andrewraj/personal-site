@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Key responsibilities :
 
   *	
-  
+
   """
 
 [[experience]]
@@ -67,56 +67,38 @@ date_format = "Jan 2006"
   *	Seek higher management approval
   """
 
-  [[experience]]
-    title = "Assistant Manager (IT)"
-    company = "Telekom Malaysia Berhad"
-    company_url = "https://www.tm.com.my/"
-    location = "Kuala Lumpur, Malaysia"
-    date_start = "2014-09-01"
-    date_end = "2015-04-30"
-    description = """
-    Key responsibilities:
+[[experience]]
+  title = "Technical Lead"
+  company = "Kenway Consulting Pty. Ltd"
+  company_url = "http://www.kenway.com.au/"
+  location = "Melbourne, Australia"
+  date_start = "2014-03-01"
+  date_end = "2014-07-30"
+  description = """
+  Key responsibilities:
 
-    *	Preparation of tender documents
-    *	Tender activities (e.g. tender float, briefing, clarification, closing)
-    *	Negotiation with vendors
-    *	Contract owner/creator
-    *	Challenge user requirements & tenderer proposal
-    *	Seek higher management approval
-    """
+  * Android development lead
+  * Overall solution architecture
+  * System design
+  * UI/UX design
+  """
 
-  [[experience]]
-    title = "Technical Lead"
-    company = "Kenway Consulting Pty. Ltd"
-    company_url = "http://www.kenway.com.au/"
-    location = "Melbourne, Australia"
-    date_start = "2014-03-01"
-    date_end = "2014-07-30"
-    description = """
-    Key responsibilities:
+[[experience]]
+  title = "Intern"
+  company = "mCruncher R&D Sdn. Bhd."
+  company_url = "http://www.mcruncher.com/"
+  location = "Cyberjaya, Malaysia"
+  date_start = "2012-03-01"
+  date_end = "2012-06-30"
+  description = """
+  Key responsibilities:
 
-    * Android development lead
-    * Overall solution architecture
-    * System design
-    * UI/UX design
-    """
+  *	Building a company website
+  * Technical documentation
+  * Website UI/UX design
+  * Building an intranet website to automate internal work flows
+  * Research on business intelligence tools (IBM Cognos)
 
-    [[experience]]
-      title = "Intern"
-      company = "mCruncher R&D Sdn. Bhd."
-      company_url = "http://www.mcruncher.com/"
-      location = "Cyberjaya, Malaysia"
-      date_start = "2012-03-01"
-      date_end = "2012-06-30"
-      description = """
-      Key responsibilities:
-
-      *	Building a company website
-      * Technical documentation
-      * Website UI/UX design
-      * Building an intranet website to automate internal work flows
-      * Research on business intelligence tools (IBM Cognos)
-
-      """
+  """
 
 +++
