@@ -7,7 +7,7 @@ title: Projects
 #4 = Citation (previously APA and MLA), only available for publications
 #Optionally, edit the value of citation_style in params.toml to APA or MLA
 #5 = Showcase (large images), only available for projects
-view: 5
+view: 3
 
 # Optional header image (relative to `static/img/` folder).
 header:

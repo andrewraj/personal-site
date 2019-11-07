@@ -27,7 +27,8 @@ date_format = "Jan 2006"
   description = """
   Key responsibilities :
 
-  *	
+  *	Prepare digital tools to enable digital procurement
+  * Category Excellence (CE) Framework
 
   """
 
@@ -43,10 +44,8 @@ date_format = "Jan 2006"
 
   *	Strategize IT procurement activities
   *	Review/propose alternative IT solutions
-  *	Negotiation with vendors
-  *	Challenge user requirements & proposal
-  *	End to end IT procurement
-  *	Initiate & manage contracts
+  *	Commercial negotiation with vendors
+  *	Negotiate & manage contracting
   """
 
 [[experience]]
@@ -63,8 +62,7 @@ date_format = "Jan 2006"
   *	Tender activities (e.g. tender float, briefing, clarification, closing)
   *	Negotiation with vendors
   *	Contract owner/creator
-  *	Challenge user requirements & tenderer proposal
-  *	Seek higher management approval
+  *	Seek senior management approval
   """
 
 [[experience]]
