@@ -71,4 +71,4 @@ email: ""
 #  - Visitors
 ---
 
-Andrew Raj is a procurement consultant at Accenture serving clients in various industries. Prior to joining Accenture, he served in Malaysia's No. 1 Telecommunication organization Telekom Malaysia Berhad. His area of expertise include commercial & contract negotiations, IT procurement planning, consultancy.
+I'm a highly organised procurement consultant at a Fortune 500 company. Specialised in commercial negotiations, contract negotiations, IT procurement planning and consultancy with over 5 years of experience in IT Procurement in Malaysia's leading telecommunication provider.
