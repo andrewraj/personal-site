@@ -14,8 +14,8 @@ role: Procurement Professional
 
 # Organizations/Affiliations
 organizations:
-- name: Telekom Malaysia Berhad
-  url: "https://www.tm.com.my"
+- name: Accenture
+  url: "https://www.accenture.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My skills include negotiation strategy, IT procurement
