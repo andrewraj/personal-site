@@ -20,4 +20,9 @@
   to = "https://www.andrewraj.com/"
   status = 301
   force = true
-  conditions = {Language = ["en","es"], Country = ["US"]}
+
+  [[redirects]]
+  from = "https://andrewraj.com/*"
+  to = "https://www.andrewraj.com/"
+  status = 301
+  force = true
